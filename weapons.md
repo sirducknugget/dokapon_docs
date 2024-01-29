@@ -1,15 +1,7 @@
 Weapons (_[source](https://gamefaqs.gamespot.com/gba/536498-dokapon-monster-hunter/faqs/18192)_)
 
-WEAPON ALBUM.===
-
-S/No - the weapon serial number.
-Name - the name of the weapons.
-ATK  - the weapon Attack Power.
-Sp   - the weapon Speed Power.
-Cost - the cost price of the weapons.
-
-|S/No|Name       |ATK  |SP   |Cost  |Status  |Abilities |
-|----|-----------|-----|-----|------|--------|----------|
+|Serial|Name       |ATK  |SPD   |Cost  |Status  |Abilities |
+|------|-----------|-----|------|------|--------|----------|
 |001 |Knife      |5    |3    |40    |        |          |
 |002 |Bowie      |13   |5    |157   |        |          |
 |003 |Dagger     |25   |6    |200   |        |          |
