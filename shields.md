@@ -1,4 +1,4 @@
-Shields ([source](https://gamefaqs.gamespot.com/gba/536498-dokapon-monster-hunter/faqs/18192))
+Shields (_[source](https://gamefaqs.gamespot.com/gba/536498-dokapon-monster-hunter/faqs/18192)_)
 
 |Serial|Name     |DF   |SPD  |Cost  |Status  |
 |------|---------|-----|-----|------|--------|
