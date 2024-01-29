@@ -23,3 +23,6 @@ Skills (taken directly from the game)
 |`RockBlok`|Void \<Scissors skill> Damage 0|
 |`CutItOut`|Void \<Paper skill> Damage 0|
 |`PaperJam`|Void \<Rock skill> Damage 0|
+|`Transfer`|Give your status abnormality to enemy|
+|`Escape`  |No risk Get away from the battle|
+|`Reflect` |Return enemy moves as they are|
