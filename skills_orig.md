@@ -4,6 +4,10 @@ Skills (taken directly from the game)
 |Name      |Description |
 |----------|------------|
 |`Slash`   |With equipped weapon, cut and attack|
+|`Shoot`   |With equipped weapon, aim and attack|
+|`Freeze`  |During battle, enemy \<striking power> goes down|
+|`Tornado` |During battle, enemy's \<defense strength> goes down|
+|`Prize Up`|Smashing with this move gets you more money|
 |`DF-UP`   |During battle \<defense strength> increases|
 |`SP-UP`   |During battle \<speed> increases|
 |`Half Hit`|By special fencing, enemy HP halved|
