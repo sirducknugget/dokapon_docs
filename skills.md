@@ -1,89 +1,49 @@
 Skills (_[source](https://gamefaqs.gamespot.com/gba/536498-dokapon-monster-hunter/faqs/18192)_)
 
-_Weapon_Skill_
-///////////////
-The list is grouped according to their type.
-Sorry for any inconvience caused.
-      ___________ _______________________________________ ___________
-     |Skill Name |Effects                                |Type       |
-     |```````````|```````````````````````````````````````|```````````|
-     |Unarmed/   |Damage                                 |Basic      |   
-     |Slash/     |Done                                   |           |
-     |Thrust/    |To                                     |           |
-     |Swing/     |Enemy                                  |           |
-     |Shaker/    |Based                                  |           |
-     |Smasher/   |On                                     |           |
-     |Shoot/     |Weapon                                 |           |
-     |Knucker    |AT Power                               |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |DF-Up/     |DF power up for a few _Turn_           |Increase   |
-     |Harder     |DF power up for a few _Turn_           |User       |
-     |SP-Up/     |SP power up for a few _Turn_           |Statistic  |
-     |Quicker    |SP power up for a few _Turn_           |           |
-     |AT-Up/     |AT power up for a few _Turn_           |           |
-     |Heat Up    |AT power up for a few _Turn_           |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Flash/     |Blind enemy                            |Inflict    |
-     |BlackOut   |Blind enemy                            |Status     |
-     |MoonBeat   |Enemy falls asleep for a few _Turn_    |Effect     |
-     |           |                                       |           |
-     |Sting/     |Poison enemy. Hp decreases by 1        |           |
-     |Snake      |each _Turn_                            |           |
-     |Cursed     |Enemy _Curse_                          |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Half-Hit   |-1/2 of enemy remaining Hp             |           |
-     |1/3 Hit    |-2/3 of enemy remaining Hp             |           |
-     |1/5 Hit    |-4/5 of enemy remaining Hp             |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Swallow1   |50% chance of additonal damage after   |Extra      |
-     |           |first hit                              |Damage     |
-     |Swallow2   |Additonal damage after first hit       |           |
-     |Swallow3/  |25% chance of additonal damage after   |           |
-     |Stardust   |first hit                              |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Double/    |Attack twice                           |Multi-     |
-     |W-Stab     |Attack twice                           |hits       |
-     |Triple     |Attack thrice                          |           |
-     |X-Stab     |Attack 4 times. Can be deadly          |           |
-     |ShineCut   |Attack 5 times. Can be deadly          |           |
-     |Poker      |Attack 1 to 8 times. Can be deadly     |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Crusher    |1/4 chance of breaking enemy shield    |           |
-     |Gambler    |1/6 chance of stabbing enemy           |           |   
-     |```````````|```````````````````````````````````````|```````````|
-     |Stun-Hit   |Paralyze enemy/your character for a    |Status     |
-     |           |few _Turn_                             |Damage     |
-     |```````````|```````````````````````````````````````|```````````|
-     |Pirate     |Take opponent item                     |Steal      |
-     |Burglar1   |                                       |Item       |
-     |Burglar2   |                                       |           |
-     |```````````|```````````````````````````````````````|```````````|    
-     |Jump-Hit   |Unselectable. Flies past opponent.     |Damage To  |
-     |           |Allies harmed                          |Allies     |
-     |Pierce     |Thrust at enemy. Allies harmed         |           |
-     |Laser/     |Thrust at enemy. Slight damage on ally |           |
-     |RollOver   |                                       |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Absorb1/   |Damaged done to enemy is used to heal  |Damage     |
-     |Vamp-Hit   |own Hp                                 |Done =     |
-     |Absorb2    |Heals more Hp relative to the Absorb1  |Hp Healed  |
-     |HealGet    |Absorb1 + Pirate                       |           |
-     |```````````|```````````````````````````````````````|```````````|
-     |Oni        |More damage done to enemy              |Increase   |
-     |           |                                       |Damage     |
-     |           |                                       |Inflicted  |
-     |```````````|```````````````````````````````````````|```````````|
-     |AT-Seal1/  |Seal enemy 1 attack skill              |Seal       |
-     |Forget1    |Seal enemy 1 attack skill              |Abilities  |
-     |Forget2    |Seal enemy 2 attack skill              |           |
-     |Forget3    |Seal enemy 1 attack skill + DF-Down    |           |
-     |AT-Seal2   |Seal enemy all attack skill            |           |
-     |DF-Seal1   |Seal enemy 1 defense skill             |           |
-     |DF-Seal2   |Seal enemy all defense skill           |           |
-     |```````````|```````````````````````````````````````|```````````|
+## Weapon Skills
 
-_Shield_Skill_
-///////////////
+The list is grouped according to their type.
+
+|Skill Name |Effects                                |Type       |
+|-----------|---------------------------------------|-----------|
+|`Unarmed` `Slash` `Thrust` `Swing` `Shaker` `Smasher` `Shoot` `Knucker`|Deal damage to enemy based on weapon ATK|Basic      |   
+|`DF-Up` `Harder`|DF up for a few turns             |Buff       |
+|`SP-Up` `Quicker`|SP up for a few turns            |Buff       |
+|`AT-Up` `Heat Up`|AT up for a few turns            |Buff       |
+|`Flash` `BlackOut`|Blind enemy                     |Inflict status effect|
+|`MoonBeat` |Enemy falls asleep for a few turns    |Inflict status effect|
+|`Sting` `Snake`|Poison enemy. Hp decreases by 1/turn|Inflict status effect|
+|`Cursed`   |Curse enemy                            |Inflict status effect|
+|`Half-Hit` |Reduce remaining enemy HP by half      |           |
+|`1/3 Hit`  |Reduce remaining enemy HP by tow thirds|           |
+|`1/5 Hit`  |Reduce remaining enemy HP by four fiths|           |
+|`Swallow1` |50% chance of additonal damage after first hit|Extra DMG|
+|`Swallow2` |Additonal damage after first hit       |Extra DMG  |
+|`Swallow3` `Stardust`|25% chance of additonal damage after first hit|Extra DMG|
+|`Double` `W-Stab`|Attack twice                     |Multi hits |
+|`Triple`   |Attack thrice                          |Multi hits |
+|`X-Stab`   |Attack 4 times. Can be deadly          |Multi hits |
+|`ShineCut` |Attack 5 times. Can be deadly          |Multi hits |
+|`Poker`    |Attack 1 to 8 times. Can be deadly     |Multi hits |
+|`Crusher`  |1/4 chance of breaking enemy shield    |           |
+|`Gambler`  |1/6 chance of stabbing enemy           |           |   
+|`Stun-Hit` |Paralyze target for a few turns        |Inflict status effect|
+|`Pirate` `Burglar1` `Burglar2`|Take opponent item  |Steal item |
+|`Jump-Hit` |Unselectable. Flies past opponent and harms allies|Damage allies|
+|`Pierce`   |Thrust at enemy. Allies harmed         |Damage allies|
+|`Laser` `RollOver`|Thrust at enemy. Slight damage on ally|Damage allies|
+|`Absorb1` `Vamp-Hit`|Damaged done to enemy is used to heal own HP|Damage heal|
+|`Absorb2`  |Heals more Hp than `Absorb1`           |Damage heal|
+|`HealGet`  |Absorbs HP and steals item             |Steam item, damage heal|
+|`Oni`      |Increases damage output                |Buff       |
+|`AT-Seal1` `Forget1`|Seals single enemy attack skill|Seal abilities|
+|`Forget2`  |Seal tow enemy attack skills           |Seal abilities|
+|`Forget3`  |Seal enemy single attack skill + DF-Down|Seal abilities|
+|`AT-Seal2` |Seal enemy all attack skills           |Seal abilities|
+|`DF-Seal1` |Seal enemy single defense skill        |Seal abilities|
+|`DF-Seal2` |Seal enemy all defense skills          |Seal abilities|
+
+## Shield skills
 
 _Attack_Assist_Skill_
 //////////////////////
