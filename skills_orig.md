@@ -5,9 +5,13 @@ Skills (taken directly from the game)
 |----------|------------|
 |`Slash`   |With equipped weapon, cut and attack|
 |`Shoot`   |With equipped weapon, aim and attack|
+|`Smasher` |With equipped weapon, swing down and attack|
 |`Freeze`  |During battle, enemy \<striking power> goes down|
 |`Tornado` |During battle, enemy's \<defense strength> goes down|
 |`Prize Up`|Smashing with this move gets you more money|
+|`CoolDown`|During battle enemy's \<striking power> decreases|
+|`Half HP` |This stab halves enemy HP|
+|`Burgler` |Attacking with this skill gains items|
 |`DF-UP`   |During battle \<defense strength> increases|
 |`SP-UP`   |During battle \<speed> increases|
 |`Half Hit`|By special fencing, enemy HP halved|
