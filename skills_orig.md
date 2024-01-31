@@ -11,8 +11,10 @@ Skills (taken directly from the game)
 |`Tornado` |During battle, enemy's \<defense strength> goes down|
 |`Prize Up`|Smashing with this move gets you more money|
 |`CoolDown`|During battle enemy's \<striking power> decreases|
+|`Double`  |By quick fencing, repeats attack twice|
 |`Half HP` |This stab halves enemy HP|
 |`HellKiss`|Kiss of devil's fist Enemy falls into \<curse>|
+|`Jump Hit`|Flies past enemy Allies harmed|
 |`MonkShot`|Slashing with this move gains experience points|
 |`Burgler` |Attacking with this skill gains items|
 |`DF-UP`   |During battle \<defense strength> increases|
