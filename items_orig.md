@@ -9,6 +9,7 @@
 |Dagger  |25| 6|  200|🟢`Slash`<br/>🪨`DF-UP`<br/>✂️`1/3 Hit`<br/>🗒️`Pirate`|
 |Rock-It |38| 9|  300|🟢`Knuckler`<br/>🪨`DF-seed`<br/>✂️`HellKiss`<br/>🗒️`MonkShot`|
 |R-Blade |30| 8|  280|🟢`Slash`<br/>🪨`SP-UP`<br/>✂️`Jump Hit`<br/>🗒️`Double`|
+|Spike   |26|-1|  215|🟢`Thrust`<br/>🪨`RollOver`<br/>✂️`Forget1`<br/>🗒️`Flash`|
 
 ## Shields
 |Name    |DF|SP|Price|Abilities|
