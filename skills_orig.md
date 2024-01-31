@@ -22,13 +22,17 @@ Skills (taken directly from the game)
 |`Pirate`  |By quick fencing, take an item from enemy|
 |`Poison`  |Blowing poison soaks enemy in \<poison>|
 |`Prize Up`|Smashing with this move gets you more money|
+|`Schmack` |Violently waving weapon casues damage|
+|`Shaker`  |With equipped weapon, wield and attack|
 |`Shoot`   |With equipped weapon, aim and attack|
 |`Slash`   |With equipped weapon, cut and attack|
+|`Sleeper` |By delusional powder enemy falls into \<sleep>|
 |`Smasher` |With equipped weapon, swing down and attack|
 |`SP-UP`   |During battle \<speed> increases|
 |`RollOver`|Thrust at enemy, slight damage to allies|
 |`Thrust`  |With equipped weapon, stab and attack|
 |`Tornado` |During battle, enemy's \<defense strength> goes down|
+|`UP`      |Increase \<striking power, defense strength,speed>|
 
 ## Defensive skills
 |Name      |Description |
