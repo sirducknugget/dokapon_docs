@@ -6,13 +6,17 @@ Skills (taken directly from the game)
 |`Slash`   |With equipped weapon, cut and attack|
 |`Shoot`   |With equipped weapon, aim and attack|
 |`Smasher` |With equipped weapon, swing down and attack|
+|`Knuckler`|With equipped weapon, hit and attack|
 |`Freeze`  |During battle, enemy \<striking power> goes down|
 |`Tornado` |During battle, enemy's \<defense strength> goes down|
 |`Prize Up`|Smashing with this move gets you more money|
 |`CoolDown`|During battle enemy's \<striking power> decreases|
 |`Half HP` |This stab halves enemy HP|
+|`HellKiss`|Kiss of devil's fist Enemy falls into \<curse>|
+|`MonkShot`|Slashing with this move gains experience points|
 |`Burgler` |Attacking with this skill gains items|
 |`DF-UP`   |During battle \<defense strength> increases|
+|`DF-seed` |During battle \<defense power> increases|
 |`SP-UP`   |During battle \<speed> increases|
 |`Half Hit`|By special fencing, enemy HP halved|
 |`1/3 Hit` |By special fencing, enemy HP cut by one-third|
