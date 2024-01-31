@@ -4,6 +4,7 @@ Skills (taken directly from the game)
 |Name      |Description |
 |----------|------------|
 |`1/3 Hit` |By special fencing, enemy HP cut by one-third|
+|`Bubble`  |During battle enemy's \<speed> decreases|
 |`Burgler` |Attacking with this skill gains items|
 |`CoolDown`|During battle enemy's \<striking power> decreases|
 |`DF-seed` |During battle \<defense power> increases|
@@ -19,6 +20,7 @@ Skills (taken directly from the game)
 |`Knuckler`|With equipped weapon, hit and attack|
 |`MonkShot`|Slashing with this move gains experience points|
 |`Pirate`  |By quick fencing, take an item from enemy|
+|`Poison`  |Blowing poison soaks enemy in \<poison>|
 |`Prize Up`|Smashing with this move gets you more money|
 |`Shoot`   |With equipped weapon, aim and attack|
 |`Slash`   |With equipped weapon, cut and attack|
