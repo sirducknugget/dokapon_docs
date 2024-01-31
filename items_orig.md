@@ -6,6 +6,7 @@
 |Hatchet |21|-1|  180|🟢`Smasher`<br/>🪨`CoolDown`<br/>✂️`Half HP`<br/>🗒️`Burgler`|
 |Arabic  |20| 5|  160||
 |Spear   |20|-2|  175||
+|Dagger  |25| 6|  200|🟢`Slash`<br/>🪨`DF-UP`<br/>✂️`1/3 Hit`<br/>🗒️`Pirate`|
 
 ## Shields
 |Name    |DF|SP|Price|Abilities|
