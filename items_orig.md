@@ -11,6 +11,7 @@
 |R-Blade |30| 8|  280|🟢`Slash`<br/>🪨`SP-UP`<br/>✂️`Jump Hit`<br/>🗒️`Double`|
 |Spike   |26|-1|  215|🟢`Thrust`<br/>🪨`RollOver`<br/>✂️`Forget1`<br/>🗒️`Flash`|
 |WaterGun|39| 6|  250|🟢`Shoot`<br/>🪨`Bubble`<br/>✂️`Poison`<br/>🗒️`Freeze`|
+|Ocarina |30| 5|  350|🟢`Shaker`<br/>🪨`Schmack`<br/>✂️`Sleeper`<br/>🗒️`UP`|
 
 ## Shields
 |Name    |DF|SP|Price|Abilities|
