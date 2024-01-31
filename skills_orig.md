@@ -12,10 +12,14 @@ Skills (taken directly from the game)
 |`Prize Up`|Smashing with this move gets you more money|
 |`CoolDown`|During battle enemy's \<striking power> decreases|
 |`Double`  |By quick fencing, repeats attack twice|
+|`Flash`   |Light shines on enemy who fall into \<blackout>|
+|`Forget1` |Influence on enemy Seals one attacking skill|
 |`Half HP` |This stab halves enemy HP|
 |`HellKiss`|Kiss of devil's fist Enemy falls into \<curse>|
 |`Jump Hit`|Flies past enemy Allies harmed|
 |`MonkShot`|Slashing with this move gains experience points|
+|`RollOver`|Thrust at enemy, slight damage to allies|
+|`Thrust`  |With equipped weapon, stab and attack|
 |`Burgler` |Attacking with this skill gains items|
 |`DF-UP`   |During battle \<defense strength> increases|
 |`DF-seed` |During battle \<defense power> increases|
