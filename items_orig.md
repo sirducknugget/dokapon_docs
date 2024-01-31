@@ -8,6 +8,7 @@
 |Spear   |20|-2|  175||
 |Dagger  |25| 6|  200|🟢`Slash`<br/>🪨`DF-UP`<br/>✂️`1/3 Hit`<br/>🗒️`Pirate`|
 |Rock-It |38| 9|  300|🟢`Knuckler`<br/>🪨`DF-seed`<br/>✂️`HellKiss`<br/>🗒️`MonkShot`|
+|R-Blade |30| 8|  280|🟢`Slash`<br/>🪨`SP-UP`<br/>✂️`Jump Hit`<br/>🗒️`Double`|
 
 ## Shields
 |Name    |DF|SP|Price|Abilities|
