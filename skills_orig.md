@@ -3,30 +3,30 @@ Skills (taken directly from the game)
 ## Offensive skills
 |Name      |Description |
 |----------|------------|
-|`Slash`   |With equipped weapon, cut and attack|
-|`Shoot`   |With equipped weapon, aim and attack|
-|`Smasher` |With equipped weapon, swing down and attack|
-|`Knuckler`|With equipped weapon, hit and attack|
-|`Freeze`  |During battle, enemy \<striking power> goes down|
-|`Tornado` |During battle, enemy's \<defense strength> goes down|
-|`Prize Up`|Smashing with this move gets you more money|
+|`1/3 Hit` |By special fencing, enemy HP cut by one-third|
+|`Burgler` |Attacking with this skill gains items|
 |`CoolDown`|During battle enemy's \<striking power> decreases|
+|`DF-seed` |During battle \<defense power> increases|
+|`DF-UP`   |During battle \<defense strength> increases|
 |`Double`  |By quick fencing, repeats attack twice|
 |`Flash`   |Light shines on enemy who fall into \<blackout>|
 |`Forget1` |Influence on enemy Seals one attacking skill|
+|`Freeze`  |During battle, enemy \<striking power> goes down|
+|`Half Hit`|By special fencing, enemy HP halved|
 |`Half HP` |This stab halves enemy HP|
 |`HellKiss`|Kiss of devil's fist Enemy falls into \<curse>|
 |`Jump Hit`|Flies past enemy Allies harmed|
+|`Knuckler`|With equipped weapon, hit and attack|
 |`MonkShot`|Slashing with this move gains experience points|
+|`Pirate`  |By quick fencing, take an item from enemy|
+|`Prize Up`|Smashing with this move gets you more money|
+|`Shoot`   |With equipped weapon, aim and attack|
+|`Slash`   |With equipped weapon, cut and attack|
+|`Smasher` |With equipped weapon, swing down and attack|
+|`SP-UP`   |During battle \<speed> increases|
 |`RollOver`|Thrust at enemy, slight damage to allies|
 |`Thrust`  |With equipped weapon, stab and attack|
-|`Burgler` |Attacking with this skill gains items|
-|`DF-UP`   |During battle \<defense strength> increases|
-|`DF-seed` |During battle \<defense power> increases|
-|`SP-UP`   |During battle \<speed> increases|
-|`Half Hit`|By special fencing, enemy HP halved|
-|`1/3 Hit` |By special fencing, enemy HP cut by one-third|
-|`Pirate`  |By quick fencing, take an item from enemy|
+|`Tornado` |During battle, enemy's \<defense strength> goes down|
 
 ## Defensive skills
 |Name      |Description |
