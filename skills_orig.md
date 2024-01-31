@@ -15,6 +15,8 @@ Skills (taken directly from the game)
 |`DF-UP`   |During battle \<defense strength> increases|
 |`SP-UP`   |During battle \<speed> increases|
 |`Half Hit`|By special fencing, enemy HP halved|
+|`1/3 Hit` |By special fencing, enemy HP cut by one-third|
+|`Pirate`  |By quick fencing, take an item from enemy|
 
 ## Defensive skills
 |Name      |Description |
