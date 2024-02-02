@@ -104,8 +104,39 @@
 
 
 ## Shields
-|  #|Name    |DF|SP|Price|Abilities|Description|
-|---|--------|--|--|-----|---------|-----------|
-||Shield  | 3| 3|  ???|🟢`Basic`<br/>🪨`RockBlok`<br/>✂️`CutItOut`<br/>🗒️`PaperJam`||
-||Pirate-S|23| 8|  120|🟢`Basic`<br/>🪨`Transfer`<br/>✂️`Escape`<br/>🗒️`Reflect`||
+|  #|Name    |DF|SP|Price|Status |Abilities|Description|
+|---|--------|--|--|-----|-------|---------|-----------|
+|001|Shiled  | 3| 3|    5|       |🟢`Basic`<br/>🪨`RockBlok`<br/>✂️`CutItOut`<br/>🗒️`PaperJam`|Recycled pot lid shield. Easy on earth.|
+|002|Wood-S  | 5| 4|   25|       |🟢`Basic`<br/>🪨`Transfer`<br/>✂️`CutItOut`<br/>🗒️`PaperJam`|A wooden shield made from \<Forest> trees.|
+|003|Flower-S| 8| 3|   50|       |🟢`Basic`<br/>🪨`RockBlok`<br/>✂️`Recovery`<br/>🗒️`PaperJam`|A oak adventurer shield. Cute but unpopular.|
+|004|Oak-S   | 9| 3|   57|       |🟢`Basic`<br/>🪨`Transfer`<br/>✂️`Recovery`<br/>🗒️`PaperJam`|A bronze shield. Stronger than a wooden one|
+|005|Bird-S  | 7| 6|   50|       |🟢`Basic`<br/>🪨`Speeder`<br/>✂️`CutItOut`<br/>🗒️`Escape`|Made from same stuff as potty by a master.|
+|006|Shell-S |11| 2|   80|       |🟢`Basic`<br/>🪨`Defender`<br/>✂️`Recovery`<br/>🗒️`Transfer`|Deep-sea shell shield. Shiny surface|
+|007|Scale-S |14| 6|   92|       |🟢`Basic`<br/>🪨`Defender`<br/>✂️`Attacker`<br/>🗒️`Speeder`|Turtlefish shield of scales, made scale by scale.|
+|008|Bronze-S|18| 5|  100|       |🟢`Basic`<br/>🪨`Recovery`<br/>✂️`Defender`<br/>🗒️`PaperJam`|Round bronze shield. basic for adventurer|
+|009|Bolt-S  |25|-2|  116|ActDown|🟢`Basic`<br/>🪨`Convert`<br/>✂️`DF-Seal1`<br/>🗒️`Transfer`|Iron and wood sheet shield. Slows movement.|
+|010|Buckler |16|12|  108|       |🟢`Basic`<br/>🪨`Attacker`<br/>✂️`Reflect`<br/>🗒️`Spin Off`|Leather sideview mirror. Small and moveable|
+|011|Pirate-S|23| 8|  120|AntiTrp|🟢`Basic`<br/>🪨`Transfer`<br/>✂️`Escape`<br/>🗒️`Reflect`|Pirate coat of arms. Avoids traps.|
+|012|Iron-S  |33|-4|  172|       |🟢`Basic`<br/>🪨`Recovery`<br/>✂️`Attacker`<br/>🗒️`Speeder`|Commercial iron shield. Solid for a warrior.|
+|013|Plume-S |24|13|  170|       |🟢`Basic`<br/>🪨`Rockover`<br/>✂️`Recovery`<br/>🗒️`DF-Seal1`|A winged shield. Thin and light, but sturdy|
+|014|Slate-S |38|-5|  255|       |🟢`Basic`<br/>🪨`TransALL`<br/>✂️`AT-Seal1`<br/>🗒️`TransALL`|Drum with stone lettering found in \<Forest>|
+|015|Buckler2|30|10|  257|       |🟢`Basic`<br/>🪨`Attacker`<br/>✂️`TransMAX`<br/>🗒️`Spin Off`|A sideview mirror of the highest quality|
+|016|Steel-S |43|-8|  315|       |🟢`Basic`<br/>🪨`AT-Seal1`<br/>✂️`Convert`<br/>🗒️`Defender`|Hexagonal steel shield. Heavy defense.|
+|017|Peacock |35| 8|  480|PsnOff |🟢`Basic`<br/>🪨`Rockover`<br/>✂️`CutItOut`<br/>🗒️`All CUre`|Peacock shield.  Poison protection|
+|018|Face-S  |46|-6|  500|       |🟢`Basic`<br/>🪨`1/2 Back`<br/>✂️`TransALL`<br/>🗒️`PaperJam`|Strange open-mouth monster, oozes laziness|
+|019|Buckler3|36|12|  580|       |🟢`Basic`<br/>🪨`Convert`<br/>✂️`TransMAX`<br/>🗒️`Spin Off`|Best mirror shield. Cross shaped.|
+|020|Mask-S  |48| 0|  800|Curse  |🟢`Basic`<br/>🪨`FallBack`<br/>✂️`Escape`<br/>🗒️`HalfCure`|Tribal mask shield. Be Cursed. Be tricked|
+|021|Guard   |45|12|  550|       |🟢`Basic`<br/>🪨`Defender`<br/>✂️`BombWall`<br/>🗒️`Reflect`|An arm gauntlet shield, move swiftly.|
+|022||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|023||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|024||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|025||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|026||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|027||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|028||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|029||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|030||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
 |||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+|||||||🟢``<br/>🪨``<br/>✂️``<br/>🗒️``||
+
