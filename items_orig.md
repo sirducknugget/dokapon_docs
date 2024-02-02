@@ -1,6 +1,6 @@
 ## Weapons
 |  #|Name    | AT| SP|Price|Status |Abilities|Description|
-|---|--------|---|- -|-----|-------|---------|-----------|
+|---|--------|---|---|-----|-------|---------|-----------|
 |001|Knife   |  5|  3|   40|       |🟢`Slash`<br/>🪨`Half Hit`<br/>✂️`SP-UP`<br/>🗒️`Pirate`|A wide Butcher's knife, sharp and useful.|
 |002|B-Knife | 13|  5|  157|PsnOff |🟢`Slash`<br/>🪨`Half Hit`<br/>✂️`Stun Hit`<br/>🗒️`AT-UP`|A common travellers knife, tipped w/ poison.|
 |003|Dagger  | 25|  6|  200|       |🟢`Slash`<br/>🪨`DF-UP`<br/>✂️`1/3 Hit`<br/>🗒️`Pirate`|A sharp double-edged dagger for stabbing.|
